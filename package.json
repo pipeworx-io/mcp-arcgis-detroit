@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-detroit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Detroit GIS — Detroit, Michigan open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-fd0ecee01392c38e20c037d92e9ff826b3ea6650f15e7a3a28a6351b0e64db8f",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-29472342852bee3e5694842e6b0099396cf6eaefc1828e351d5d5f99e1b0641a",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
